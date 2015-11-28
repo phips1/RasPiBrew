@@ -24,4 +24,6 @@
 	<!-- Units C (Celsius) or F (Fahrenheit) -->
 	<!-- Note: Default is F for Android app which can switch between F and C-->
 	<Temp_Units>F</Temp_Units>
+	<BrauhelferDB_Path>/home/Dropbox/Apps/brauhelfer/kb_daten_test.sqlite</BrauhelferDB_Path>
+	<!-- Integration of "Der kleine Brauhelfer" -->
 </Config>
