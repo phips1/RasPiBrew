@@ -507,7 +507,7 @@ if __name__ == '__main__':
 
     brewtime = time.time()
     
-    os.chdir("/var/www/RasPiBrew")
+    #os.chdir("/var/www/RasPiBrew")
     
     # The next two calls are not needed for January 2015 or newer builds (kernel 3.18.8 and higher)
     # /boot/config.txt needs 'dtoverlay=w1-gpio' at the bottom of the file
